@@ -1,0 +1,148 @@
+{
+  "reducciones": {
+    "24": {
+      "menos_38_años_6_meses": 21.00,
+      "38_a_41_años_6_meses": 19.00,
+      "41_a_44_años_6_meses": 17.00,
+      "44_años_6_meses_o_mas": 13.00
+    },
+    "23": {
+      "menos_38_años_6_meses": 17.60,
+      "38_a_41_años_6_meses": 16.50,
+      "41_a_44_años_6_meses": 15.00,
+      "44_años_6_meses_o_mas": 12.00
+    },
+    "22": {
+      "menos_38_años_6_meses": 14.65,
+      "38_a_41_años_6_meses": 14.00,
+      "41_a_44_años_6_meses": 13.33,
+      "44_años_6_meses_o_mas": 11.00
+    },
+    "21": {
+      "menos_38_años_6_meses": 12.57,
+      "38_a_41_años_6_meses": 12.00,
+      "41_a_44_años_6_meses": 11.43,
+      "44_años_6_meses_o_mas": 10.00
+    },
+    "20": {
+      "menos_38_años_6_meses": 11.00,
+      "38_a_41_años_6_meses": 10.50,
+      "41_a_44_años_6_meses": 10.00,
+      "44_años_6_meses_o_mas": 9.20
+    },
+    "19": {
+      "menos_38_años_6_meses": 9.78,
+      "38_a_41_años_6_meses": 9.33,
+      "41_a_44_años_6_meses": 8.89,
+      "44_años_6_meses_o_mas": 8.40
+    },
+    "18": {
+      "menos_38_años_6_meses": 8.80,
+      "38_a_41_años_6_meses": 8.40,
+      "41_a_44_años_6_meses": 8.00,
+      "44_años_6_meses_o_mas": 7.60
+    },
+    "17": {
+      "menos_38_años_6_meses": 8.00,
+      "38_a_41_años_6_meses": 7.64,
+      "41_a_44_años_6_meses": 7.27,
+      "44_años_6_meses_o_mas": 6.91
+    },
+    "16": {
+      "menos_38_años_6_meses": 7.33,
+      "38_a_41_años_6_meses": 7.00,
+      "41_a_44_años_6_meses": 6.67,
+      "44_años_6_meses_o_mas": 6.33
+    },
+    "15": {
+      "menos_38_años_6_meses": 6.77,
+      "38_a_41_años_6_meses": 6.46,
+      "41_a_44_años_6_meses": 6.15,
+      "44_años_6_meses_o_mas": 5.85
+    },
+    "14": {
+      "menos_38_años_6_meses": 6.29,
+      "38_a_41_años_6_meses": 6.00,
+      "41_a_44_años_6_meses": 5.71,
+      "44_años_6_meses_o_mas": 5.43
+    },
+    "13": {
+      "menos_38_años_6_meses": 5.87,
+      "38_a_41_años_6_meses": 5.60,
+      "41_a_44_años_6_meses": 5.33,
+      "44_años_6_meses_o_mas": 5.07
+    },
+    "12": {
+      "menos_38_años_6_meses": 5.50,
+      "38_a_41_años_6_meses": 5.25,
+      "41_a_44_años_6_meses": 5.00,
+      "44_años_6_meses_o_mas": 4.75
+    },
+    "11": {
+      "menos_38_años_6_meses": 5.18,
+      "38_a_41_años_6_meses": 4.94,
+      "41_a_44_años_6_meses": 4.71,
+      "44_años_6_meses_o_mas": 4.47
+    },
+    "10": {
+      "menos_38_años_6_meses": 4.89,
+      "38_a_41_años_6_meses": 4.67,
+      "41_a_44_años_6_meses": 4.44,
+      "44_años_6_meses_o_mas": 4.22
+    },
+    "9": {
+      "menos_38_años_6_meses": 4.63,
+      "38_a_41_años_6_meses": 4.42,
+      "41_a_44_años_6_meses": 4.21,
+      "44_años_6_meses_o_mas": 4.00
+    },
+    "8": {
+      "menos_38_años_6_meses": 4.40,
+      "38_a_41_años_6_meses": 4.20,
+      "41_a_44_años_6_meses": 4.00,
+      "44_años_6_meses_o_mas": 3.80
+    },
+    "7": {
+      "menos_38_años_6_meses": 4.19,
+      "38_a_41_años_6_meses": 4.00,
+      "41_a_44_años_6_meses": 3.81,
+      "44_años_6_meses_o_mas": 3.62
+    },
+    "6": {
+      "menos_38_años_6_meses": 4.00,
+      "38_a_41_años_6_meses": 3.82,
+      "41_a_44_años_6_meses": 3.64,
+      "44_años_6_meses_o_mas": 3.45
+    },
+    "5": {
+      "menos_38_años_6_meses": 3.83,
+      "38_a_41_años_6_meses": 3.65,
+      "41_a_44_años_6_meses": 2.48,
+      "44_años_6_meses_o_mas": 3.30
+    },
+    "4": {
+      "menos_38_años_6_meses": 3.67,
+      "38_a_41_años_6_meses": 3.50,
+      "41_a_44_años_6_meses": 3.33,
+      "44_años_6_meses_o_mas": 3.17
+    },
+    "3": {
+      "menos_38_años_6_meses": 3.52,
+      "38_a_41_años_6_meses": 3.36,
+      "41_a_44_años_6_meses": 3.20,
+      "44_años_6_meses_o_mas": 3.04
+    },
+    "2": {
+      "menos_38_años_6_meses": 3.38,
+      "38_a_41_años_6_meses": 3.23,
+      "41_a_44_años_6_meses": 3.08,
+      "44_años_6_meses_o_mas": 2.92
+    },
+    "1": {
+      "menos_38_años_6_meses": 3.26,
+      "38_a_41_años_6_meses": 3.11,
+      "41_a_44_años_6_meses": 2.96,
+      "44_años_6_meses_o_mas": 2.81
+    }
+  }
+}
